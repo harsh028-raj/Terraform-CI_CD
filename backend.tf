@@ -1,3 +1,4 @@
+/*
 terraform {
   backend "s3" {
     bucket = "harsh-bucket2812"
@@ -6,3 +7,4 @@ terraform {
     dynamodb_table = "backend"
   }
 }
+*/
